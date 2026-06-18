@@ -1,5 +1,4 @@
 # rookiedanslepaddock.github.io
-BRS - Burgundy Racing School
 <!DOCTYPE html>
 <html lang="fr">
 <head>
